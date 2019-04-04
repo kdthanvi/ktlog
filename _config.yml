@@ -13,7 +13,7 @@ timezone: Japan
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: https://ktlog.herokuapp.com
 root: /
 permalink: /:title/ #:year/:month/:day/:title/
 permalink_defaults:
